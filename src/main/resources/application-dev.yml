@@ -11,7 +11,7 @@ MINIO_ACCESS_KEY: NzByPdwkCl7LGOVgK9R4
 MINIO_SECRETE_KEY: TgjiHrAOFXnZt4RiUsclqULFYykg99cWWocoqeEk
 MINIO_BUCKET: origin-bucket-1
 
-MEDIA_BASE_URI: http://68.183.225.48:7000
+MEDIA_BASE_URI: https://file-origin.devkh.asia
 MEDIA_ENDPOINT: /api/v1/files
 
 #MEDIA_BASE_URI: http://127.0.0.1:8080
